@@ -1,6 +1,6 @@
 # digital-pet
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/emoji-pet/blob/main/emoji_pet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Biancagambino7/digital-pet/blob/main/digital_pet.ipynb)
 
 
 https://biancagambino7.github.io/digital-pet/ 
@@ -142,7 +142,7 @@ cd emoji-pet</pre>
 </ul>
 
 <h3> Ready to Play?</h3>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/emoji-pet/blob/main/emoji_pet.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Biancagambino7/digital-pet/blob/main/digital_pet.ipynb)
 
 <h2>License</h2>
 <p>This project is MIT Licensed. Feel free to modify and share!</p>
