@@ -1,5 +1,8 @@
 # digital-pet
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/emoji-pet/blob/main/emoji_pet.ipynb)
+
+
 https://biancagambino7.github.io/digital-pet/ 
 
 <h1>Emoji Pet Game 🐾</h1>
@@ -137,6 +140,9 @@ cd emoji-pet</pre>
   <li>Play strategically: Playing with your pet consumes energy, so balance feeding, playing, and sleeping</li>
   <li>Check weather & NBA/Bitcoin effects: They update your pet’s stats automatically each turn</li>
 </ul>
+
+<h3> Ready to Play?</h3>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/emoji-pet/blob/main/emoji_pet.ipynb)
 
 <h2>License</h2>
 <p>This project is MIT Licensed. Feel free to modify and share!</p>
