@@ -141,8 +141,10 @@ cd emoji-pet</pre>
   <li>Check weather & NBA/Bitcoin effects: They update your pet’s stats automatically each turn</li>
 </ul>
 
-<h3> Ready to Play?</h3>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Biancagambino7/digital-pet/blob/main/digital_pet.ipynb)
 
 <h2>License</h2>
 <p>This project is MIT Licensed. Feel free to modify and share!</p>
+
+<h3> Ready to Play?</h3>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Biancagambino7/digital-pet/blob/main/digital_pet.ipynb)
